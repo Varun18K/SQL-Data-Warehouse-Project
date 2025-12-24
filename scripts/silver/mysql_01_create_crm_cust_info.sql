@@ -1,0 +1,12 @@
+-- Silver Layer: CRM Customers 
+-- USE silver_db;
+
+-- CREATE TABLE crm_cust_info (
+--     cst_id INT,
+--     cst_key VARCHAR(50),
+--     first_name VARCHAR(100),
+--     last_name VARCHAR(100),
+--     marital_status VARCHAR(20),
+--     gender VARCHAR(10),
+--     create_date DATE
+-- );
